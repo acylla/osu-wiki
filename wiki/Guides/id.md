@@ -34,7 +34,7 @@ Berikut ini adalah daftar panduan yang dibuat oleh para anggota osu!community; B
 - [Panduan Untuk Pemula](/wiki/Beginner's_Tutorial)
 - [Bantuan Permasalahan GL](/wiki/GL_Support_Issues)
 - [Bagaimana Cara Bermain osu!mania](/wiki/How_to_Play_osu!mania)
-- [Bagaimana Cara Menggunakan Offset Wizard](/wiki/How_to_Use_the_Offset_Wizard) \\NEEDHELPSOVERHERE
+- [Bagaimana Cara Menggunakan Wisaya Offset](/wiki/How_to_Use_the_Offset_Wizard)
 - [Merekam osu!](/wiki/Recording_osu!)
 - [Mencari dan Mengunduh Beatmap](/wiki/Searching_and_Downloading_Beatmaps)
 - [Membeli tablet](/wiki/Tablet_Purchase)
@@ -42,12 +42,12 @@ Berikut ini adalah daftar panduan yang dibuat oleh para anggota osu!community; B
 
 ## Skinning
 
-*Lihat Juga: [Skinning](/wiki/Skinning) dan [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*Lihat Juga: [Skinning](/wiki/Skinning) dan [Panduan Skinning](/wiki/Skinning_Tutorial)*
 
 - [Memotong pada Gambar Latar yang Rumit](/wiki/Cropping_with_Complex_Backgrounds)
 - [Memotong pada Gambar Latar yang Sederhana](/wiki/Cropping_with_Simple_Backgrounds)
 - [Membuat Spinner yang Tepat berada di Tengah](/wiki/Making_Properly_Centered_Spinners)
 
-## Miscellaneous
+## Serba Aneka
 
 - [Cara Menjalankan osu! pada Perangkat Mac Tanpa Menggunakan Boot Camp](/wiki/How_to_Run_osu!_on_Your_Mac_Without_Using_Boot_Camp)
