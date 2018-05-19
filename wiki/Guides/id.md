@@ -13,9 +13,9 @@ Berikut ini adalah daftar panduan yang dibuat oleh para anggota osu!community; B
 - [Informasi Kolaborasi](/wiki/Collab_Information)
 - [Mengkompresi Berkas](/wiki/Compressing_Files)
 - [Perpustakaan Hit Sounds Kustom](/wiki/Custom_Hit_Sound_Library)
-- [Custom Sample Overrides](/wiki/Custom_Sample_Overrides)
+- [Penimpaan Custom Sample](/wiki/Custom_Sample_Overrides)
 - [Mendapatkan Musik Dari Video Game](/wiki/Getting_Songs_From_Video_Games)
-- [How to Time Songs](/wiki/How_to_Time_Songs)  \\NEEDHELPSOVERHERE
+- [Bagaimana cara menentukan BPM dari suatu musik](/wiki/How_to_Time_Songs)
 - [Teori Musik](/wiki/Music_Theory)
 - [Panduan Membuat Beatmap osu!mania](/wiki/osu!mania_Mapping_Guide)
 - [Mengatur Offset Pada Beat Yang Benar](/wiki/Setting_the_Offset_on_the_Correct_Beat)
